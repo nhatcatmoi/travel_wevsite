@@ -1,0 +1,154 @@
+{
+  "catergories": [
+    {
+      "id": "1",
+      "name": "miền Nam"
+    },
+    {
+      "id": "2",
+      "name": "miền Bắc"
+    }
+  ],
+  "products": [
+    {
+      "homeStay_ID": "1",
+      "homeStay_Name": "Aparthotel Stare Miasto",
+      "homeStay_Location": "Bà Nà, Cao Lãnh",
+      "isVip": "VIP",
+      "rating": {
+        "score": 7.9,
+        "description": "Tốt",
+        "reviewCount": 122
+      },
+      "promotion": "Ưu đãi du lịch",
+      "nights": "2 đêm",
+      "originalPrice": 5000000,
+      "discountedPrice": 4500000,
+      "image": "bedroom1.jfif",
+      "category": 1,
+      "id": "9e15"
+    },
+    {
+      "homeStay_ID": "2",
+      "homeStay_Name": "Casa Portuguesa Prata",
+      "homeStay_Location": "Hạ Long",
+      "isVip": "VIP",
+      "rating": {
+        "score": 9.1,
+        "description": "Tuyệt vời",
+        "reviewCount": 335
+      },
+      "promotion": "Giảm giá đặc biệt",
+      "nights": "4 ngày",
+      "originalPrice": 7000000,
+      "discountedPrice": 6800000,
+      "image": "bedroom2.jfif",
+      "category": 1,
+      "id": "4967"
+    },
+    {
+      "homeStay_ID": "3",
+      "homeStay_Name": "An Tọa Hotel",
+      "homeStay_Location": "Bàu Cát, Phan Thiết",
+      "isVip": "VIP",
+      "rating": {
+        "score": 6.9,
+        "description": "Thường",
+        "reviewCount": 34
+      },
+      "promotion": "Ưu đãi du lịch",
+      "nights": "5 đêm",
+      "originalPrice": 8000000,
+      "discountedPrice": 7200000,
+      "image": "bedroom3.jfif",
+      "category": 2,
+      "id": "4410"
+    },
+    {
+      "homeStay_ID": "4",
+      "homeStay_Name": "Flora Chiado Apartments",
+      "homeStay_Location": "Phố Vọng, Hà Nội",
+      "isVip": "VIP",
+      "rating": {
+        "score": 9.9,
+        "description": "Xuất Sắc",
+        "reviewCount": 1000
+      },
+      "promotion": "Ưu đãi sốc",
+      "nights": "1 đêm",
+      "originalPrice": 10000000,
+      "discountedPrice": 9900000,
+      "image": "bedroom4.jfif",
+      "category": 2,
+      "id": "9fad"
+    },
+    {
+      "homeStay_ID": "5",
+      "homeStay_Name": "Hạ Long Villa",
+      "homeStay_Location": "Quảng Châu, Trung Quốc",
+      "isVip": "VIP",
+      "rating": {
+        "score": 7.9,
+        "description": "Tốt",
+        "reviewCount": 399
+      },
+      "promotion": "Giảm giá",
+      "nights": "2 đêm",
+      "originalPrice": 3000000,
+      "discountedPrice": 2900000,
+      "image": "bedroom5.jfif",
+      "category": 1,
+      "id": "3732"
+    },
+    {
+      "homeStay_ID": "6",
+      "homeStay_Name": "Tình Yêu Hotel",
+      "homeStay_Location": "Cam Ranh",
+      "isVip": "VIP",
+      "rating": {
+        "score": 10,
+        "description": "Xuất Sắc",
+        "reviewCount": 10000
+      },
+      "promotion": "Ưu đãi cực sốc",
+      "nights": "3 đêm",
+      "originalPrice": 12000000,
+      "discountedPrice": 1180000,
+      "image": "bedroom6.jfif",
+      "category": 2,
+      "id": "9552"
+    }
+  ],
+  "user": [
+    {
+      "id": "4d6f",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$n2Ug6GgbHVcNL0t5TaVyv.qbHqea0C6DBJ3Iw16rG3wRKgVAeP.eu"
+    },
+    {
+      "id": "1790",
+      "email": "teo@gmail.com",
+      "password": "$2a$10$KOYT60MH277igS.IFYVNue1QwsLo4xP3iyo.Rv2pW8v1GXazFaRvq"
+    },
+    {
+      "id": "68d5",
+      "email": "nhat2@gmail.com",
+      "password": "$2a$10$.HEZIzoaxcxl8eObq3XSCu4PUy2jVpYccHxU/aBaTKsEYR..E608e"
+    },
+    {
+      "id": "8689",
+      "email": "abc123@gmail.com",
+      "password": "$2a$10$nkJ5ABpzjeck5DeeYBl98ef38jU5Sd8YeZdTuxV186OSNPSXuQQIW"
+    },
+    {
+      "id": "71b1",
+      "email": "a1@gmail.com",
+      "password": "$2a$10$9VrRSwq9iOA/uUtVq0UvJuNMcTOP/bE0IvbQ6BJsnJByEU0u7TyKO"
+    },
+    {
+      "id": "7bc0",
+      "email": "a2@gmail.com",
+      "password": "$2a$10$CRnDgwbK4qDbKU1h9QBCWOp7Uq3QfKp4JV4NQ1Q5FCQ.D3M6Klw6G"
+    }
+  ]
+}
